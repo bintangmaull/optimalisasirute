@@ -1,0 +1,13 @@
+# Large Data Folders
+SHP/
+*.kmz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Data (optional, keeping if user wants them in repo but be careful)
+# dist_matrix.pkl
+# index.html
+# roads.json

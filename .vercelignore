@@ -1,0 +1,20 @@
+# Abaikan semua file python
+*.py
+
+# Abaikan file data mentah dan yang sudah diproses
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.kmz
+*.kml
+*.zip
+
+# Abaikan folder data spasial
+SHP/
+COV*/
+
+# (Opsional) Abaikan dokumentasi jika tidak ingin ditampilkan
+README.md
+
+# Hanya file HTML (.html) dan asset web lainnya (CSS/JS jika ada) yang akan diupload dan di-deploy oleh Vercel.

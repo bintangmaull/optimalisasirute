@@ -24,8 +24,8 @@ KML_DIR     = r"D:\Ayak\Project Rolling\COV TUBA MEY 26 (1).kmz (1)"
 OUTPUT_HTML = r"D:\Ayak\Project Rolling\ZRS68_map.html"
 
 # Koordinat terminal (kantor/depo)
-# Tulang Bawang — pakai titik kota Menggala
-TERMINAL_COORD = (-4.4706, 105.2418)
+# Tulang Bawang — pakai titik
+TERMINAL_COORD = (-4.280465, 105.2165843)
 
 DAYS = ["SENIN", "SELASA", "RABU", "KAMIS", "JUMAT", "SABTU"]
 

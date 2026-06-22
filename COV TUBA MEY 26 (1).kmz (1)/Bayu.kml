@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="doc__cov_bayu_mey_26xlsx" id="doc__cov_bayu_mey_26xlsx">
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Customer" type="string"></SimpleField>
+	<SimpleField name="Name_1" type="string"></SimpleField>
+	<SimpleField name="Represent_" type="string"></SimpleField>
+	<SimpleField name="Jwk_Salesman" type="string"></SimpleField>
+	<SimpleField name="SC" type="string"></SimpleField>
+	<SimpleField name="Descript_" type="string"></SimpleField>
+	<SimpleField name="LAT" type="string"></SimpleField>
+	<SimpleField name="LONG" type="string"></SimpleField>
+</Schema>
+<Folder><name>doc__cov_bayu_mey_26xlsx</name>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.1">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1698611&lt;br&gt;Name 1: TK.EKO SUSILO&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00117823E&lt;br&gt;Descript.: Kibang Budi Jaya&lt;br&gt;LAT: -4.3245179&lt;br&gt;LONG: 105.129188</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1698611.0</SimpleData>
+		<SimpleData name="Name_1">TK.EKO SUSILO</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00117823E</SimpleData>
+		<SimpleData name="Descript_">Kibang Budi Jaya</SimpleData>
+		<SimpleData name="LAT">-4.3245179</SimpleData>
+		<SimpleData name="LONG">105.129188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.129188,-4.3245179,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.2">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1758842&lt;br&gt;Name 1: TK.WIN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00117834E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.332823&lt;br&gt;LONG: 105.161128</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1758842.0</SimpleData>
+		<SimpleData name="Name_1">TK.WIN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00117834E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.332823</SimpleData>
+		<SimpleData name="LONG">105.161128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.161128,-4.332823,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.3">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 475062&lt;br&gt;Name 1: SRC SUSI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00117886E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.3382109&lt;br&gt;LONG: 105.1533851</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">475062.0</SimpleData>
+		<SimpleData name="Name_1">SRC SUSI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00117886E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.3382109</SimpleData>
+		<SimpleData name="LONG">105.1533851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1533851,-4.3382109,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.4">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5450838&lt;br&gt;Name 1: TK.AFIKA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00119030E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.32175&lt;br&gt;LONG: 105.06062</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5450838.0</SimpleData>
+		<SimpleData name="Name_1">TK.AFIKA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00119030E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.32175</SimpleData>
+		<SimpleData name="LONG">105.06062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.06062,-4.32175,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.5">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 427426&lt;br&gt;Name 1: TK.JAYA TOTO KATON&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00118148E&lt;br&gt;Descript.: Batu Putih&lt;br&gt;LAT: -4.357161&lt;br&gt;LONG: 105.028012</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">427426.0</SimpleData>
+		<SimpleData name="Name_1">TK.JAYA TOTO KATON</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00118148E</SimpleData>
+		<SimpleData name="Descript_">Batu Putih</SimpleData>
+		<SimpleData name="LAT">-4.357161</SimpleData>
+		<SimpleData name="LONG">105.028012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.028012,-4.357161,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.6">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 515340&lt;br&gt;Name 1: TK.RIZAL ULIMA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00129549H&lt;br&gt;Descript.: Menggala&lt;br&gt;LAT: -4.487577&lt;br&gt;LONG: 105.237196</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">515340.0</SimpleData>
+		<SimpleData name="Name_1">TK.RIZAL ULIMA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00129549H</SimpleData>
+		<SimpleData name="Descript_">Menggala</SimpleData>
+		<SimpleData name="LAT">-4.487577</SimpleData>
+		<SimpleData name="LONG">105.237196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.237196,-4.487577,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.7">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3121782&lt;br&gt;Name 1: TK.KIYAI AZKHA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00129548H&lt;br&gt;Descript.: Kamp Tua&lt;br&gt;LAT: -4.573078&lt;br&gt;LONG: 105.213553</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3121782.0</SimpleData>
+		<SimpleData name="Name_1">TK.KIYAI AZKHA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00129548H</SimpleData>
+		<SimpleData name="Descript_">Kamp Tua</SimpleData>
+		<SimpleData name="LAT">-4.573078</SimpleData>
+		<SimpleData name="LONG">105.213553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.213553,-4.573078,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.8">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3398549&lt;br&gt;Name 1: TK.SEMBAKO MBAH JINEM&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00129569H&lt;br&gt;Descript.: mulyo kencono&lt;br&gt;LAT: -4.562627&lt;br&gt;LONG: 105.1657811</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3398549.0</SimpleData>
+		<SimpleData name="Name_1">TK.SEMBAKO MBAH JINEM</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00129569H</SimpleData>
+		<SimpleData name="Descript_">mulyo kencono</SimpleData>
+		<SimpleData name="LAT">-4.562627</SimpleData>
+		<SimpleData name="LONG">105.1657811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1657811,-4.562627,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.9">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5277555&lt;br&gt;Name 1: TK.HANIN MULYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00129747H&lt;br&gt;Descript.: mulyo kencono&lt;br&gt;LAT: -4.57012&lt;br&gt;LONG: 105.141</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5277555.0</SimpleData>
+		<SimpleData name="Name_1">TK.HANIN MULYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00129747H</SimpleData>
+		<SimpleData name="Descript_">mulyo kencono</SimpleData>
+		<SimpleData name="LAT">-4.57012</SimpleData>
+		<SimpleData name="LONG">105.141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.141,-4.57012,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.10">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 451320&lt;br&gt;Name 1: TK.ROPINTA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00117883E&lt;br&gt;Descript.: pulung kencono&lt;br&gt;LAT: -4.591917&lt;br&gt;LONG: 105.104847</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">451320.0</SimpleData>
+		<SimpleData name="Name_1">TK.ROPINTA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00117883E</SimpleData>
+		<SimpleData name="Descript_">pulung kencono</SimpleData>
+		<SimpleData name="LAT">-4.591917</SimpleData>
+		<SimpleData name="LONG">105.104847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.104847,-4.591917,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.11">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5528296&lt;br&gt;Name 1: TK.AVISA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00117861E&lt;br&gt;Descript.: Menggala&lt;br&gt;LAT: -4.4815048&lt;br&gt;LONG: 105.239794</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5528296.0</SimpleData>
+		<SimpleData name="Name_1">TK.AVISA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00117861E</SimpleData>
+		<SimpleData name="Descript_">Menggala</SimpleData>
+		<SimpleData name="LAT">-4.4815048</SimpleData>
+		<SimpleData name="LONG">105.239794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.239794,-4.4815048,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.12">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 197190&lt;br&gt;Name 1: ANUGERAH II&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00118741E&lt;br&gt;Descript.: Unit 8&lt;br&gt;LAT: -4.371168&lt;br&gt;LONG: 105.269918</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">197190.0</SimpleData>
+		<SimpleData name="Name_1">ANUGERAH II</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00118741E</SimpleData>
+		<SimpleData name="Descript_">Unit 8</SimpleData>
+		<SimpleData name="LAT">-4.371168</SimpleData>
+		<SimpleData name="LONG">105.269918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.269918,-4.371168,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.13">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 244518&lt;br&gt;Name 1: TK.PAK DWI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00129652H&lt;br&gt;Descript.: PS. SPUA&lt;br&gt;LAT: -3.996096&lt;br&gt;LONG: 105.2879552</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">244518.0</SimpleData>
+		<SimpleData name="Name_1">TK.PAK DWI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00129652H</SimpleData>
+		<SimpleData name="Descript_">PS. SPUA</SimpleData>
+		<SimpleData name="LAT">-3.996096</SimpleData>
+		<SimpleData name="LONG">105.2879552</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2879552,-3.996096,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.14">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888472&lt;br&gt;Name 1: TK.MAS LILIK&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00129184H&lt;br&gt;Descript.: PS. BUJUNG BURUNG&lt;br&gt;LAT: -3.917674&lt;br&gt;LONG: 105.352702</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888472.0</SimpleData>
+		<SimpleData name="Name_1">TK.MAS LILIK</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00129184H</SimpleData>
+		<SimpleData name="Descript_">PS. BUJUNG BURUNG</SimpleData>
+		<SimpleData name="LAT">-3.917674</SimpleData>
+		<SimpleData name="LONG">105.352702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.352702,-3.917674,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.15">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888268&lt;br&gt;Name 1: TK.MAK KAR&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00118170E&lt;br&gt;Descript.: PS. BUJUNG BURUNG&lt;br&gt;LAT: -3.959689&lt;br&gt;LONG: 105.28468</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888268.0</SimpleData>
+		<SimpleData name="Name_1">TK.MAK KAR</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00118170E</SimpleData>
+		<SimpleData name="Descript_">PS. BUJUNG BURUNG</SimpleData>
+		<SimpleData name="LAT">-3.959689</SimpleData>
+		<SimpleData name="LONG">105.28468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.28468,-3.959689,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.16">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2058527&lt;br&gt;Name 1: LITA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00118832E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.361702&lt;br&gt;LONG: 105.154422</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2058527.0</SimpleData>
+		<SimpleData name="Name_1">LITA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00118832E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.361702</SimpleData>
+		<SimpleData name="LONG">105.154422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.154422,-4.361702,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.17">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2856916&lt;br&gt;Name 1: WR NURKHOLIS&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00118162E&lt;br&gt;Descript.: Unit 7&lt;br&gt;LAT: -4.380317&lt;br&gt;LONG: 105.185766</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2856916.0</SimpleData>
+		<SimpleData name="Name_1">WR NURKHOLIS</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00118162E</SimpleData>
+		<SimpleData name="Descript_">Unit 7</SimpleData>
+		<SimpleData name="LAT">-4.380317</SimpleData>
+		<SimpleData name="LONG">105.185766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.185766,-4.380317,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.18">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5392897&lt;br&gt;Name 1: TOKO NAILA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00117746E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.360245&lt;br&gt;LONG: 105.113357</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5392897.0</SimpleData>
+		<SimpleData name="Name_1">TOKO NAILA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00117746E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.360245</SimpleData>
+		<SimpleData name="LONG">105.113357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.113357,-4.360245,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.19">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2571356&lt;br&gt;Name 1: TK.DILLA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118842E&lt;br&gt;Descript.: PS.E1&lt;br&gt;LAT: -4.1735023&lt;br&gt;LONG: 105.4137426</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2571356.0</SimpleData>
+		<SimpleData name="Name_1">TK.DILLA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118842E</SimpleData>
+		<SimpleData name="Descript_">PS.E1</SimpleData>
+		<SimpleData name="LAT">-4.1735023</SimpleData>
+		<SimpleData name="LONG">105.4137426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.4137426,-4.1735023,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.20">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5431845&lt;br&gt;Name 1: TK.BU MUL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00117799E&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.285088&lt;br&gt;LONG: 105.226896</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5431845.0</SimpleData>
+		<SimpleData name="Name_1">TK.BU MUL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00117799E</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.285088</SimpleData>
+		<SimpleData name="LONG">105.226896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.226896,-4.285088,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.21">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5450813&lt;br&gt;Name 1: BAKSO TENIS TETELAN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00118753E&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.287997&lt;br&gt;LONG: 105.221145</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5450813.0</SimpleData>
+		<SimpleData name="Name_1">BAKSO TENIS TETELAN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00118753E</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.287997</SimpleData>
+		<SimpleData name="LONG">105.221145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.221145,-4.287997,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.22">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5479526&lt;br&gt;Name 1: SRC YULI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00117683E&lt;br&gt;Descript.: Ps Rajawali&lt;br&gt;LAT: -4.297458&lt;br&gt;LONG: 105.379705</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5479526.0</SimpleData>
+		<SimpleData name="Name_1">SRC YULI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00117683E</SimpleData>
+		<SimpleData name="Descript_">Ps Rajawali</SimpleData>
+		<SimpleData name="LAT">-4.297458</SimpleData>
+		<SimpleData name="LONG">105.379705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.379705,-4.297458,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.23">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2893073&lt;br&gt;Name 1: WR.DAFA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00117583E&lt;br&gt;Descript.: Ps SPI B3&lt;br&gt;LAT: -4.27987&lt;br&gt;LONG: 105.491303</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2893073.0</SimpleData>
+		<SimpleData name="Name_1">WR.DAFA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00117583E</SimpleData>
+		<SimpleData name="Descript_">Ps SPI B3</SimpleData>
+		<SimpleData name="LAT">-4.27987</SimpleData>
+		<SimpleData name="LONG">105.491303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.491303,-4.27987,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.24">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2893228&lt;br&gt;Name 1: WR.MBAH MINEN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00117805E&lt;br&gt;Descript.: Ps SPI B3&lt;br&gt;LAT: -4.282541&lt;br&gt;LONG: 105.455304</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2893228.0</SimpleData>
+		<SimpleData name="Name_1">WR.MBAH MINEN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00117805E</SimpleData>
+		<SimpleData name="Descript_">Ps SPI B3</SimpleData>
+		<SimpleData name="LAT">-4.282541</SimpleData>
+		<SimpleData name="LONG">105.455304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.455304,-4.282541,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.25">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5490372&lt;br&gt;Name 1: TK.ATIN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00118178E&lt;br&gt;Descript.: Unit 3&lt;br&gt;LAT: -4.267337&lt;br&gt;LONG: 105.283923</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5490372.0</SimpleData>
+		<SimpleData name="Name_1">TK.ATIN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00118178E</SimpleData>
+		<SimpleData name="Descript_">Unit 3</SimpleData>
+		<SimpleData name="LAT">-4.267337</SimpleData>
+		<SimpleData name="LONG">105.283923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.283923,-4.267337,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.26">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5282980&lt;br&gt;Name 1: TK.SRI MULYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00118745E&lt;br&gt;Descript.: KNPI&lt;br&gt;LAT: -4.2907751&lt;br&gt;LONG: 105.3806549</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5282980.0</SimpleData>
+		<SimpleData name="Name_1">TK.SRI MULYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00118745E</SimpleData>
+		<SimpleData name="Descript_">KNPI</SimpleData>
+		<SimpleData name="LAT">-4.2907751</SimpleData>
+		<SimpleData name="LONG">105.3806549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.3806549,-4.2907751,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.27">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5554334&lt;br&gt;Name 1: TK.ASIH&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00118744E&lt;br&gt;Descript.: Ps SPI B3&lt;br&gt;LAT: -4.279376&lt;br&gt;LONG: 105.487982</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5554334.0</SimpleData>
+		<SimpleData name="Name_1">TK.ASIH</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00118744E</SimpleData>
+		<SimpleData name="Descript_">Ps SPI B3</SimpleData>
+		<SimpleData name="LAT">-4.279376</SimpleData>
+		<SimpleData name="LONG">105.487982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.487982,-4.279376,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.28">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 602328&lt;br&gt;Name 1: TK.IDA BUANA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00117777E&lt;br&gt;Descript.: BLJ SPI&lt;br&gt;LAT: -4.2641871&lt;br&gt;LONG: 105.1536417</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">602328.0</SimpleData>
+		<SimpleData name="Name_1">TK.IDA BUANA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00117777E</SimpleData>
+		<SimpleData name="Descript_">BLJ SPI</SimpleData>
+		<SimpleData name="LAT">-4.2641871</SimpleData>
+		<SimpleData name="LONG">105.1536417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1536417,-4.2641871,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.29">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1732377&lt;br&gt;Name 1: TOKO DINI CEEL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00117867E&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.258349&lt;br&gt;LONG: 105.10317</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1732377.0</SimpleData>
+		<SimpleData name="Name_1">TOKO DINI CEEL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00117867E</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.258349</SimpleData>
+		<SimpleData name="LONG">105.10317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.10317,-4.258349,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.30">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 4347547&lt;br&gt;Name 1: SENTRA MART&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00129559H&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.2453081&lt;br&gt;LONG: 105.0434028</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">4347547.0</SimpleData>
+		<SimpleData name="Name_1">SENTRA MART</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00129559H</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.2453081</SimpleData>
+		<SimpleData name="LONG">105.0434028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0434028,-4.2453081,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.31">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3781399&lt;br&gt;Name 1: TK SUSI ARSA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00129603H&lt;br&gt;Descript.: BLJ SPI&lt;br&gt;LAT: -4.2434965&lt;br&gt;LONG: 105.161887</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3781399.0</SimpleData>
+		<SimpleData name="Name_1">TK SUSI ARSA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00129603H</SimpleData>
+		<SimpleData name="Descript_">BLJ SPI</SimpleData>
+		<SimpleData name="LAT">-4.2434965</SimpleData>
+		<SimpleData name="LONG">105.161887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.161887,-4.2434965,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.32">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5405992&lt;br&gt;Name 1: TK.DAFFA DEPPI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00117783E&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.249362&lt;br&gt;LONG: 105.245256</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5405992.0</SimpleData>
+		<SimpleData name="Name_1">TK.DAFFA DEPPI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00117783E</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.249362</SimpleData>
+		<SimpleData name="LONG">105.245256</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.245256,-4.249362,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.33">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 189587&lt;br&gt;Name 1: TOKO AMEL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00117882E&lt;br&gt;Descript.: Indraloka Luar&lt;br&gt;LAT: -4.2047688&lt;br&gt;LONG: 105.1983312</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">189587.0</SimpleData>
+		<SimpleData name="Name_1">TOKO AMEL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00117882E</SimpleData>
+		<SimpleData name="Descript_">Indraloka Luar</SimpleData>
+		<SimpleData name="LAT">-4.2047688</SimpleData>
+		<SimpleData name="LONG">105.1983312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1983312,-4.2047688,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.34">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 209693&lt;br&gt;Name 1: TK. ZENURI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00117778E&lt;br&gt;Descript.: PS. INDRA LOKA II&lt;br&gt;LAT: -4.1961523&lt;br&gt;LONG: 105.1644503</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">209693.0</SimpleData>
+		<SimpleData name="Name_1">TK. ZENURI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00117778E</SimpleData>
+		<SimpleData name="Descript_">PS. INDRA LOKA II</SimpleData>
+		<SimpleData name="LAT">-4.1961523</SimpleData>
+		<SimpleData name="LONG">105.1644503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1644503,-4.1961523,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.35">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1137955&lt;br&gt;Name 1: TK.LINA HI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00129741H&lt;br&gt;Descript.: PS. H I GD. AJI BARU&lt;br&gt;LAT: -4.1790625&lt;br&gt;LONG: 105.5280835</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1137955.0</SimpleData>
+		<SimpleData name="Name_1">TK.LINA HI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00129741H</SimpleData>
+		<SimpleData name="Descript_">PS. H I GD. AJI BARU</SimpleData>
+		<SimpleData name="LAT">-4.1790625</SimpleData>
+		<SimpleData name="LONG">105.5280835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.5280835,-4.1790625,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.36">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 189597&lt;br&gt;Name 1: TOKO. NUR&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118261E&lt;br&gt;Descript.: PS. H I GD. AJI BARU&lt;br&gt;LAT: -4.179278&lt;br&gt;LONG: 105.526161</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">189597.0</SimpleData>
+		<SimpleData name="Name_1">TOKO. NUR</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118261E</SimpleData>
+		<SimpleData name="Descript_">PS. H I GD. AJI BARU</SimpleData>
+		<SimpleData name="LAT">-4.179278</SimpleData>
+		<SimpleData name="LONG">105.526161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.526161,-4.179278,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.37">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5539290&lt;br&gt;Name 1: TK.BINTANG&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118263E&lt;br&gt;Descript.: PS. GUNUNG 3. RAWAJI&lt;br&gt;LAT: -4.2174449&lt;br&gt;LONG: 105.6324402</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5539290.0</SimpleData>
+		<SimpleData name="Name_1">TK.BINTANG</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118263E</SimpleData>
+		<SimpleData name="Descript_">PS. GUNUNG 3. RAWAJI</SimpleData>
+		<SimpleData name="LAT">-4.2174449</SimpleData>
+		<SimpleData name="LONG">105.6324402</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.6324402,-4.2174449,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.38">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5386913&lt;br&gt;Name 1: WR.SUKANI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118731E&lt;br&gt;Descript.: PS. GUNUNG 3. RAWAJI&lt;br&gt;LAT: -4.223845&lt;br&gt;LONG: 105.637798</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5386913.0</SimpleData>
+		<SimpleData name="Name_1">WR.SUKANI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118731E</SimpleData>
+		<SimpleData name="Descript_">PS. GUNUNG 3. RAWAJI</SimpleData>
+		<SimpleData name="LAT">-4.223845</SimpleData>
+		<SimpleData name="LONG">105.637798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.637798,-4.223845,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.39">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5544712&lt;br&gt;Name 1: TK.BU SRI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118750E&lt;br&gt;Descript.: PS. GUNUNG 3. RAWAJI&lt;br&gt;LAT: -4.220575&lt;br&gt;LONG: 105.629837</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5544712.0</SimpleData>
+		<SimpleData name="Name_1">TK.BU SRI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118750E</SimpleData>
+		<SimpleData name="Descript_">PS. GUNUNG 3. RAWAJI</SimpleData>
+		<SimpleData name="LAT">-4.220575</SimpleData>
+		<SimpleData name="LONG">105.629837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.629837,-4.220575,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.40">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 274466&lt;br&gt;Name 1: TK.ROHADI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118748E&lt;br&gt;Descript.: PS. IPIL RAWAJITU&lt;br&gt;LAT: -4.217079&lt;br&gt;LONG: 105.667388</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">274466.0</SimpleData>
+		<SimpleData name="Name_1">TK.ROHADI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118748E</SimpleData>
+		<SimpleData name="Descript_">PS. IPIL RAWAJITU</SimpleData>
+		<SimpleData name="LAT">-4.217079</SimpleData>
+		<SimpleData name="LONG">105.667388</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.667388,-4.217079,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.41">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888367&lt;br&gt;Name 1: TK.SRC ITA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00117974E&lt;br&gt;Descript.: Margo Jadi Mesuji&lt;br&gt;LAT: -4.009307&lt;br&gt;LONG: 105.440249</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888367.0</SimpleData>
+		<SimpleData name="Name_1">TK.SRC ITA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00117974E</SimpleData>
+		<SimpleData name="Descript_">Margo Jadi Mesuji</SimpleData>
+		<SimpleData name="LAT">-4.009307</SimpleData>
+		<SimpleData name="LONG">105.440249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.440249,-4.009307,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.42">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5555781&lt;br&gt;Name 1: TK.MBAK APRI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00118725E&lt;br&gt;Descript.: PS. SPUA&lt;br&gt;LAT: -4.0208533&lt;br&gt;LONG: 105.2506941</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5555781.0</SimpleData>
+		<SimpleData name="Name_1">TK.MBAK APRI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00118725E</SimpleData>
+		<SimpleData name="Descript_">PS. SPUA</SimpleData>
+		<SimpleData name="LAT">-4.0208533</SimpleData>
+		<SimpleData name="LONG">105.2506941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2506941,-4.0208533,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.43">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5556387&lt;br&gt;Name 1: SRC ANTON P&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00118078E&lt;br&gt;Descript.: PS. BOGATAMA&lt;br&gt;LAT: -4.144401&lt;br&gt;LONG: 105.372556</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5556387.0</SimpleData>
+		<SimpleData name="Name_1">SRC ANTON P</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00118078E</SimpleData>
+		<SimpleData name="Descript_">PS. BOGATAMA</SimpleData>
+		<SimpleData name="LAT">-4.144401</SimpleData>
+		<SimpleData name="LONG">105.372556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.372556,-4.144401,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.44">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5559665&lt;br&gt;Name 1: TK.HARIS&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00124938E&lt;br&gt;Descript.: Panaragan Jaya&lt;br&gt;LAT: -4.6006566&lt;br&gt;LONG: 105.1483819</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5559665.0</SimpleData>
+		<SimpleData name="Name_1">TK.HARIS</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00124938E</SimpleData>
+		<SimpleData name="Descript_">Panaragan Jaya</SimpleData>
+		<SimpleData name="LAT">-4.6006566</SimpleData>
+		<SimpleData name="LONG">105.1483819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1483819,-4.6006566,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.45">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5561596&lt;br&gt;Name 1: TOKO MUNANDAR&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00125004E&lt;br&gt;Descript.: Panaragan Jaya&lt;br&gt;LAT: -4.530291&lt;br&gt;LONG: 105.134257</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5561596.0</SimpleData>
+		<SimpleData name="Name_1">TOKO MUNANDAR</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00125004E</SimpleData>
+		<SimpleData name="Descript_">Panaragan Jaya</SimpleData>
+		<SimpleData name="LAT">-4.530291</SimpleData>
+		<SimpleData name="LONG">105.134257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.134257,-4.530291,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.46">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5562886&lt;br&gt;Name 1: KOP.PONDOK PESANTREN DARURROHM&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00125107E&lt;br&gt;Descript.: mulyo kencono&lt;br&gt;LAT: -4.570733&lt;br&gt;LONG: 105.150898</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5562886.0</SimpleData>
+		<SimpleData name="Name_1">KOP.PONDOK PESANTREN DARURROHM</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00125107E</SimpleData>
+		<SimpleData name="Descript_">mulyo kencono</SimpleData>
+		<SimpleData name="LAT">-4.570733</SimpleData>
+		<SimpleData name="LONG">105.150898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.150898,-4.570733,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.47">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5563256&lt;br&gt;Name 1: TOKO ALDI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00124645E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.337787&lt;br&gt;LONG: 105.1926461</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5563256.0</SimpleData>
+		<SimpleData name="Name_1">TOKO ALDI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00124645E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.337787</SimpleData>
+		<SimpleData name="LONG">105.1926461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1926461,-4.337787,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.48">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5564160&lt;br&gt;Name 1: RASYA CELL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00125024E&lt;br&gt;Descript.: Panaragan Jaya&lt;br&gt;LAT: -4.5221811&lt;br&gt;LONG: 105.091968</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5564160.0</SimpleData>
+		<SimpleData name="Name_1">RASYA CELL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00125024E</SimpleData>
+		<SimpleData name="Descript_">Panaragan Jaya</SimpleData>
+		<SimpleData name="LAT">-4.5221811</SimpleData>
+		<SimpleData name="LONG">105.091968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.091968,-4.5221811,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.49">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5564162&lt;br&gt;Name 1: KANTIN SDN 8 SIMPANG PEMATANG&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00124916E&lt;br&gt;Descript.: PS. SPUA&lt;br&gt;LAT: -4.0105345&lt;br&gt;LONG: 105.2474932</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5564162.0</SimpleData>
+		<SimpleData name="Name_1">KANTIN SDN 8 SIMPANG PEMATANG</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00124916E</SimpleData>
+		<SimpleData name="Descript_">PS. SPUA</SimpleData>
+		<SimpleData name="LAT">-4.0105345</SimpleData>
+		<SimpleData name="LONG">105.2474932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2474932,-4.0105345,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.50">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888417&lt;br&gt;Name 1: TK.AZKA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00124931E&lt;br&gt;Descript.: Sungai Badak&lt;br&gt;LAT: -3.89776&lt;br&gt;LONG: 105.421208</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888417.0</SimpleData>
+		<SimpleData name="Name_1">TK.AZKA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00124931E</SimpleData>
+		<SimpleData name="Descript_">Sungai Badak</SimpleData>
+		<SimpleData name="LAT">-3.89776</SimpleData>
+		<SimpleData name="LONG">105.421208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.421208,-3.89776,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.51">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5566397&lt;br&gt;Name 1: TOKO TAMA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00124990E&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.240283&lt;br&gt;LONG: 105.0893118</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5566397.0</SimpleData>
+		<SimpleData name="Name_1">TOKO TAMA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00124990E</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.240283</SimpleData>
+		<SimpleData name="LONG">105.0893118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0893118,-4.240283,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.52">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5518848&lt;br&gt;Name 1: TOKO SELA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00125084E&lt;br&gt;Descript.: pulung kencono&lt;br&gt;LAT: -4.5995437&lt;br&gt;LONG: 105.1092555</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5518848.0</SimpleData>
+		<SimpleData name="Name_1">TOKO SELA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00125084E</SimpleData>
+		<SimpleData name="Descript_">pulung kencono</SimpleData>
+		<SimpleData name="LAT">-4.5995437</SimpleData>
+		<SimpleData name="LONG">105.1092555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1092555,-4.5995437,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.53">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2951061&lt;br&gt;Name 1: TK.GEMI JAYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00125037E&lt;br&gt;Descript.: SP5E&lt;br&gt;LAT: -4.1721718&lt;br&gt;LONG: 105.1527932</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2951061.0</SimpleData>
+		<SimpleData name="Name_1">TK.GEMI JAYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00125037E</SimpleData>
+		<SimpleData name="Descript_">SP5E</SimpleData>
+		<SimpleData name="LAT">-4.1721718</SimpleData>
+		<SimpleData name="LONG">105.1527932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1527932,-4.1721718,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.54">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1853163&lt;br&gt;Name 1: WR VIRAL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00123879E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.3612997&lt;br&gt;LONG: 105.1721912</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1853163.0</SimpleData>
+		<SimpleData name="Name_1">WR VIRAL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00123879E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.3612997</SimpleData>
+		<SimpleData name="LONG">105.1721912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1721912,-4.3612997,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.55">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 257798&lt;br&gt;Name 1: TK.MARIYANI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00125069E&lt;br&gt;Descript.: Indraloka Luar&lt;br&gt;LAT: -4.217163&lt;br&gt;LONG: 105.207826</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">257798.0</SimpleData>
+		<SimpleData name="Name_1">TK.MARIYANI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00125069E</SimpleData>
+		<SimpleData name="Descript_">Indraloka Luar</SimpleData>
+		<SimpleData name="LAT">-4.217163</SimpleData>
+		<SimpleData name="LONG">105.207826</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.207826,-4.217163,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.56">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2567639&lt;br&gt;Name 1: DIKI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00123899E&lt;br&gt;Descript.: tirto kencono&lt;br&gt;LAT: -4.5402949&lt;br&gt;LONG: 105.1346601</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2567639.0</SimpleData>
+		<SimpleData name="Name_1">DIKI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00123899E</SimpleData>
+		<SimpleData name="Descript_">tirto kencono</SimpleData>
+		<SimpleData name="LAT">-4.5402949</SimpleData>
+		<SimpleData name="LONG">105.1346601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1346601,-4.5402949,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.57">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5573834&lt;br&gt;Name 1: Mulia Mart&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00123892E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.3574037&lt;br&gt;LONG: 105.1715411</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5573834.0</SimpleData>
+		<SimpleData name="Name_1">Mulia Mart</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00123892E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.3574037</SimpleData>
+		<SimpleData name="LONG">105.1715411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1715411,-4.3574037,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.58">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5536035&lt;br&gt;Name 1: TOKO SABILA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00123875E&lt;br&gt;Descript.: Panaragan Jaya&lt;br&gt;LAT: -4.5182926&lt;br&gt;LONG: 105.0910614</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5536035.0</SimpleData>
+		<SimpleData name="Name_1">TOKO SABILA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00123875E</SimpleData>
+		<SimpleData name="Descript_">Panaragan Jaya</SimpleData>
+		<SimpleData name="LAT">-4.5182926</SimpleData>
+		<SimpleData name="LONG">105.0910614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0910614,-4.5182926,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.59">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5573835&lt;br&gt;Name 1: Toko Artomoro 2&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00123898E&lt;br&gt;Descript.: PS. IPIL RAWAJITU&lt;br&gt;LAT: -4.1514117&lt;br&gt;LONG: 105.660764</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5573835.0</SimpleData>
+		<SimpleData name="Name_1">Toko Artomoro 2</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00123898E</SimpleData>
+		<SimpleData name="Descript_">PS. IPIL RAWAJITU</SimpleData>
+		<SimpleData name="LAT">-4.1514117</SimpleData>
+		<SimpleData name="LONG">105.660764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.660764,-4.1514117,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.60">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3245764&lt;br&gt;Name 1: TK.SEMBAKO ALIF RIFKI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00123887E&lt;br&gt;Descript.: Unit 3&lt;br&gt;LAT: -4.2996336&lt;br&gt;LONG: 105.2383197</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3245764.0</SimpleData>
+		<SimpleData name="Name_1">TK.SEMBAKO ALIF RIFKI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00123887E</SimpleData>
+		<SimpleData name="Descript_">Unit 3</SimpleData>
+		<SimpleData name="LAT">-4.2996336</SimpleData>
+		<SimpleData name="LONG">105.2383197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2383197,-4.2996336,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.61">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 4351496&lt;br&gt;Name 1: TK.ANAYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00123885E&lt;br&gt;Descript.: Daya Murni&lt;br&gt;LAT: -4.6049379&lt;br&gt;LONG: 105.079024</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">4351496.0</SimpleData>
+		<SimpleData name="Name_1">TK.ANAYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00123885E</SimpleData>
+		<SimpleData name="Descript_">Daya Murni</SimpleData>
+		<SimpleData name="LAT">-4.6049379</SimpleData>
+		<SimpleData name="LONG">105.079024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.079024,-4.6049379,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.62">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1843881&lt;br&gt;Name 1: TOKO ULFA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00132199H&lt;br&gt;Descript.: PS. UNYIL MENGGALA C&lt;br&gt;LAT: -4.2981114&lt;br&gt;LONG: 105.0986762</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1843881.0</SimpleData>
+		<SimpleData name="Name_1">TOKO ULFA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00132199H</SimpleData>
+		<SimpleData name="Descript_">PS. UNYIL MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.2981114</SimpleData>
+		<SimpleData name="LONG">105.0986762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0986762,-4.2981114,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.63">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1905630&lt;br&gt;Name 1: TK.IDA C1&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00123857E&lt;br&gt;Descript.: PS. LINGKARAN&lt;br&gt;LAT: -3.9667207&lt;br&gt;LONG: 105.4000298</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1905630.0</SimpleData>
+		<SimpleData name="Name_1">TK.IDA C1</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00123857E</SimpleData>
+		<SimpleData name="Descript_">PS. LINGKARAN</SimpleData>
+		<SimpleData name="LAT">-3.9667207</SimpleData>
+		<SimpleData name="LONG">105.4000298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.4000298,-3.9667207,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.64">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888442&lt;br&gt;Name 1: TK.IBU PUJI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00131845H&lt;br&gt;Descript.: PS. LINGKARAN&lt;br&gt;LAT: -3.9513244&lt;br&gt;LONG: 105.4413911</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888442.0</SimpleData>
+		<SimpleData name="Name_1">TK.IBU PUJI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00131845H</SimpleData>
+		<SimpleData name="Descript_">PS. LINGKARAN</SimpleData>
+		<SimpleData name="LAT">-3.9513244</SimpleData>
+		<SimpleData name="LONG">105.4413911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.4413911,-3.9513244,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.65">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888443&lt;br&gt;Name 1: TK.EIRA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00131996H&lt;br&gt;Descript.: PS. LINGKARAN&lt;br&gt;LAT: -3.9524616&lt;br&gt;LONG: 105.4392997</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888443.0</SimpleData>
+		<SimpleData name="Name_1">TK.EIRA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00131996H</SimpleData>
+		<SimpleData name="Descript_">PS. LINGKARAN</SimpleData>
+		<SimpleData name="LAT">-3.9524616</SimpleData>
+		<SimpleData name="LONG">105.4392997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.4392997,-3.9524616,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.66">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3781460&lt;br&gt;Name 1: TK MARMI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00132184H&lt;br&gt;Descript.: Ringin Sari&lt;br&gt;LAT: -4.2354665&lt;br&gt;LONG: 105.3086553</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3781460.0</SimpleData>
+		<SimpleData name="Name_1">TK MARMI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00132184H</SimpleData>
+		<SimpleData name="Descript_">Ringin Sari</SimpleData>
+		<SimpleData name="LAT">-4.2354665</SimpleData>
+		<SimpleData name="LONG">105.3086553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.3086553,-4.2354665,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.67">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5258882&lt;br&gt;Name 1: TK.BERKAH DILI MANDIRI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00131969H&lt;br&gt;Descript.: Gd. Boga&lt;br&gt;LAT: -4.1611118&lt;br&gt;LONG: 105.1085903</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5258882.0</SimpleData>
+		<SimpleData name="Name_1">TK.BERKAH DILI MANDIRI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00131969H</SimpleData>
+		<SimpleData name="Descript_">Gd. Boga</SimpleData>
+		<SimpleData name="LAT">-4.1611118</SimpleData>
+		<SimpleData name="LONG">105.1085903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1085903,-4.1611118,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.68">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5450118&lt;br&gt;Name 1: TK MBAK RUM&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00132025H&lt;br&gt;Descript.: Gd. Boga&lt;br&gt;LAT: -4.1409056&lt;br&gt;LONG: 105.1032038</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5450118.0</SimpleData>
+		<SimpleData name="Name_1">TK MBAK RUM</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00132025H</SimpleData>
+		<SimpleData name="Descript_">Gd. Boga</SimpleData>
+		<SimpleData name="LAT">-4.1409056</SimpleData>
+		<SimpleData name="LONG">105.1032038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1032038,-4.1409056,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.69">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5579224&lt;br&gt;Name 1: TOKO PAKNDUT&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00132366H&lt;br&gt;Descript.: Indraloka Luar&lt;br&gt;LAT: -4.2194009&lt;br&gt;LONG: 105.2089053</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5579224.0</SimpleData>
+		<SimpleData name="Name_1">TOKO PAKNDUT</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00132366H</SimpleData>
+		<SimpleData name="Descript_">Indraloka Luar</SimpleData>
+		<SimpleData name="LAT">-4.2194009</SimpleData>
+		<SimpleData name="LONG">105.2089053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2089053,-4.2194009,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.70">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2760065&lt;br&gt;Name 1: WR SAWAL/PURWANTI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00133231H&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.294763&lt;br&gt;LONG: 105.2189683</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2760065.0</SimpleData>
+		<SimpleData name="Name_1">WR SAWAL/PURWANTI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00133231H</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.294763</SimpleData>
+		<SimpleData name="LONG">105.2189683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2189683,-4.294763,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.71">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5572139&lt;br&gt;Name 1: SITI SULASIATINI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00133228H&lt;br&gt;Descript.: Unit 3&lt;br&gt;LAT: -4.281451&lt;br&gt;LONG: 105.299913</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5572139.0</SimpleData>
+		<SimpleData name="Name_1">SITI SULASIATINI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00133228H</SimpleData>
+		<SimpleData name="Descript_">Unit 3</SimpleData>
+		<SimpleData name="LAT">-4.281451</SimpleData>
+		<SimpleData name="LONG">105.299913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.299913,-4.281451,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.72">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 617802&lt;br&gt;Name 1: TK.BU MAKSUM&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00133300H&lt;br&gt;Descript.: Batu Putih&lt;br&gt;LAT: -4.3244975&lt;br&gt;LONG: 105.0146731</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">617802.0</SimpleData>
+		<SimpleData name="Name_1">TK.BU MAKSUM</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00133300H</SimpleData>
+		<SimpleData name="Descript_">Batu Putih</SimpleData>
+		<SimpleData name="LAT">-4.3244975</SimpleData>
+		<SimpleData name="LONG">105.0146731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0146731,-4.3244975,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.73">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1898956&lt;br&gt;Name 1: WR.BU SUM&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00133192H&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.2348218&lt;br&gt;LONG: 105.0503184</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1898956.0</SimpleData>
+		<SimpleData name="Name_1">WR.BU SUM</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00133192H</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.2348218</SimpleData>
+		<SimpleData name="LONG">105.0503184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0503184,-4.2348218,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.74">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5580815&lt;br&gt;Name 1: TOKO YANTI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00133184H&lt;br&gt;Descript.: SP5E&lt;br&gt;LAT: -4.1926979&lt;br&gt;LONG: 105.1101306</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5580815.0</SimpleData>
+		<SimpleData name="Name_1">TOKO YANTI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00133184H</SimpleData>
+		<SimpleData name="Descript_">SP5E</SimpleData>
+		<SimpleData name="LAT">-4.1926979</SimpleData>
+		<SimpleData name="LONG">105.1101306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1101306,-4.1926979,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.75">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5580817&lt;br&gt;Name 1: TOKO IMEH&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00133233H&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.171406&lt;br&gt;LONG: 105.0513037</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5580817.0</SimpleData>
+		<SimpleData name="Name_1">TOKO IMEH</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00133233H</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.171406</SimpleData>
+		<SimpleData name="LONG">105.0513037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0513037,-4.171406,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.76">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 547547&lt;br&gt;Name 1: TK.YUSYAM&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00133302H&lt;br&gt;Descript.: Unit 3&lt;br&gt;LAT: -4.2881067&lt;br&gt;LONG: 105.2958622</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">547547.0</SimpleData>
+		<SimpleData name="Name_1">TK.YUSYAM</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00133302H</SimpleData>
+		<SimpleData name="Descript_">Unit 3</SimpleData>
+		<SimpleData name="LAT">-4.2881067</SimpleData>
+		<SimpleData name="LONG">105.2958622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2958622,-4.2881067,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.77">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 4716660&lt;br&gt;Name 1: TK.INDO KUOTA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00133290H&lt;br&gt;Descript.: PS. RAWAJITU&lt;br&gt;LAT: -4.2132593&lt;br&gt;LONG: 105.7358625</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">4716660.0</SimpleData>
+		<SimpleData name="Name_1">TK.INDO KUOTA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00133290H</SimpleData>
+		<SimpleData name="Descript_">PS. RAWAJITU</SimpleData>
+		<SimpleData name="LAT">-4.2132593</SimpleData>
+		<SimpleData name="LONG">105.7358625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.7358625,-4.2132593,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.78">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5584322&lt;br&gt;Name 1: IRWAN BRI LINK&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00132202H&lt;br&gt;Descript.: PS. INDRA LOKA II&lt;br&gt;LAT: -4.1852158&lt;br&gt;LONG: 105.1871818</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5584322.0</SimpleData>
+		<SimpleData name="Name_1">IRWAN BRI LINK</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00132202H</SimpleData>
+		<SimpleData name="Descript_">PS. INDRA LOKA II</SimpleData>
+		<SimpleData name="LAT">-4.1852158</SimpleData>
+		<SimpleData name="LONG">105.1871818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.1871818,-4.1852158,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.79">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3121821&lt;br&gt;Name 1: TK.JAYA PRANATA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00132964H&lt;br&gt;Descript.: Panaragan Jaya&lt;br&gt;LAT: -4.4716945&lt;br&gt;LONG: 105.0837058</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3121821.0</SimpleData>
+		<SimpleData name="Name_1">TK.JAYA PRANATA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00132964H</SimpleData>
+		<SimpleData name="Descript_">Panaragan Jaya</SimpleData>
+		<SimpleData name="LAT">-4.4716945</SimpleData>
+		<SimpleData name="LONG">105.0837058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.0837058,-4.4716945,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.80">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2888292&lt;br&gt;Name 1: TK.ARDI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00133197H&lt;br&gt;Descript.: PS. BRABASAN&lt;br&gt;LAT: -4.0191951&lt;br&gt;LONG: 105.2759709</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2888292.0</SimpleData>
+		<SimpleData name="Name_1">TK.ARDI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00133197H</SimpleData>
+		<SimpleData name="Descript_">PS. BRABASAN</SimpleData>
+		<SimpleData name="LAT">-4.0191951</SimpleData>
+		<SimpleData name="LONG">105.2759709</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2759709,-4.0191951,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.81">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5587475&lt;br&gt;Name 1: TOKO DESTA JAYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00132474H&lt;br&gt;Descript.: Unit 7&lt;br&gt;LAT: -4.406744&lt;br&gt;LONG: 105.211946</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5587475.0</SimpleData>
+		<SimpleData name="Name_1">TOKO DESTA JAYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00132474H</SimpleData>
+		<SimpleData name="Descript_">Unit 7</SimpleData>
+		<SimpleData name="LAT">-4.406744</SimpleData>
+		<SimpleData name="LONG">105.211946</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.211946,-4.406744,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.82">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 459210&lt;br&gt;Name 1: TK.HAFIS&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00130128E&lt;br&gt;Descript.: PS. BRABASAN&lt;br&gt;LAT: -3.991494&lt;br&gt;LONG: 105.3366452</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">459210.0</SimpleData>
+		<SimpleData name="Name_1">TK.HAFIS</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00130128E</SimpleData>
+		<SimpleData name="Descript_">PS. BRABASAN</SimpleData>
+		<SimpleData name="LAT">-3.991494</SimpleData>
+		<SimpleData name="LONG">105.3366452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.3366452,-3.991494,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.83">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 3907339&lt;br&gt;Name 1: TOKO MBA ENDANG&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00130156E&lt;br&gt;Descript.: PS. BUJUNG BURUNG&lt;br&gt;LAT: -3.9192409&lt;br&gt;LONG: 105.2861757</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">3907339.0</SimpleData>
+		<SimpleData name="Name_1">TOKO MBA ENDANG</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00130156E</SimpleData>
+		<SimpleData name="Descript_">PS. BUJUNG BURUNG</SimpleData>
+		<SimpleData name="LAT">-3.9192409</SimpleData>
+		<SimpleData name="LONG">105.2861757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2861757,-3.9192409,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.84">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5590175&lt;br&gt;Name 1: KOP PONPES LIRBOYO 16 MESUJI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00143795E&lt;br&gt;Descript.: PS. BRABASAN&lt;br&gt;LAT: -3.9949193&lt;br&gt;LONG: 105.2845141</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5590175.0</SimpleData>
+		<SimpleData name="Name_1">KOP PONPES LIRBOYO 16 MESUJI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00143795E</SimpleData>
+		<SimpleData name="Descript_">PS. BRABASAN</SimpleData>
+		<SimpleData name="LAT">-3.9949193</SimpleData>
+		<SimpleData name="LONG">105.2845141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.2845141,-3.9949193,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.85">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5591720&lt;br&gt;Name 1: KOPRASI SMAN 1 PANAWARTAMA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00130169E&lt;br&gt;Descript.: PS. BOGATAMA&lt;br&gt;LAT: -4.1881681&lt;br&gt;LONG: 105.4776818</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5591720.0</SimpleData>
+		<SimpleData name="Name_1">KOPRASI SMAN 1 PANAWARTAMA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00130169E</SimpleData>
+		<SimpleData name="Descript_">PS. BOGATAMA</SimpleData>
+		<SimpleData name="LAT">-4.1881681</SimpleData>
+		<SimpleData name="LONG">105.4776818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.4776818,-4.1881681,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.86">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5595099&lt;br&gt;Name 1: TK ROMINSAH&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00130182E&lt;br&gt;Descript.: Margo Jadi Mesuji&lt;br&gt;LAT: -4.02625&lt;br&gt;LONG: 105.28153</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5595099.0</SimpleData>
+		<SimpleData name="Name_1">TK ROMINSAH</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00130182E</SimpleData>
+		<SimpleData name="Descript_">Margo Jadi Mesuji</SimpleData>
+		<SimpleData name="LAT">-4.02625</SimpleData>
+		<SimpleData name="LONG">105.28153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.28153,-4.02625,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.87">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5596071&lt;br&gt;Name 1: TK MBA ITA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00130709E&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.30044&lt;br&gt;LONG: 105.220391</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5596071.0</SimpleData>
+		<SimpleData name="Name_1">TK MBA ITA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00130709E</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.30044</SimpleData>
+		<SimpleData name="LONG">105.220391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.220391,-4.30044,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.88">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 602304&lt;br&gt;Name 1: TK.YANA BUJUK&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00118166E&lt;br&gt;Descript.: Indraloka Luar&lt;br&gt;LAT: -4.196623&lt;br&gt;LONG: 105.213066</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">602304.0</SimpleData>
+		<SimpleData name="Name_1">TK.YANA BUJUK</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00118166E</SimpleData>
+		<SimpleData name="Descript_">Indraloka Luar</SimpleData>
+		<SimpleData name="LAT">-4.196623</SimpleData>
+		<SimpleData name="LONG">105.213066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.213066,-4.196623,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.89">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 4091523&lt;br&gt;Name 1: TK.INTAN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00130188E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.273953&lt;br&gt;LONG: 105.147287</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">4091523.0</SimpleData>
+		<SimpleData name="Name_1">TK.INTAN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00130188E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.273953</SimpleData>
+		<SimpleData name="LONG">105.147287</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.147287,-4.273953,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.90">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 4091667&lt;br&gt;Name 1: TK.ADHE CELL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00130726E&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.265023&lt;br&gt;LONG: 105.036638</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">4091667.0</SimpleData>
+		<SimpleData name="Name_1">TK.ADHE CELL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00130726E</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.265023</SimpleData>
+		<SimpleData name="LONG">105.036638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.036638,-4.265023,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.91">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5599914&lt;br&gt;Name 1: TK ARUNA 29 CELL&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00130175E&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.275054&lt;br&gt;LONG: 105.14721</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5599914.0</SimpleData>
+		<SimpleData name="Name_1">TK ARUNA 29 CELL</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00130175E</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.275054</SimpleData>
+		<SimpleData name="LONG">105.14721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.14721,-4.275054,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.92">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5601079&lt;br&gt;Name 1: TK LASKAR&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00130185E&lt;br&gt;Descript.: PS. SPI MENGGALA C&lt;br&gt;LAT: -4.242929&lt;br&gt;LONG: 105.04731</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5601079.0</SimpleData>
+		<SimpleData name="Name_1">TK LASKAR</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00130185E</SimpleData>
+		<SimpleData name="Descript_">PS. SPI MENGGALA C</SimpleData>
+		<SimpleData name="LAT">-4.242929</SimpleData>
+		<SimpleData name="LONG">105.04731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.04731,-4.242929,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.93">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5361995&lt;br&gt;Name 1: MITRA UMART&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00132479H&lt;br&gt;Descript.: Ps SPI B3&lt;br&gt;LAT: -4.281914&lt;br&gt;LONG: 105.518868</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5361995.0</SimpleData>
+		<SimpleData name="Name_1">MITRA UMART</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00132479H</SimpleData>
+		<SimpleData name="Descript_">Ps SPI B3</SimpleData>
+		<SimpleData name="LAT">-4.281914</SimpleData>
+		<SimpleData name="LONG">105.518868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.518868,-4.281914,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.94">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5601879&lt;br&gt;Name 1: KANTIN AZ ZAHRA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00132364H&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.29126&lt;br&gt;LONG: 105.222849</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5601879.0</SimpleData>
+		<SimpleData name="Name_1">KANTIN AZ ZAHRA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00132364H</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.29126</SimpleData>
+		<SimpleData name="LONG">105.222849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.222849,-4.29126,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.95">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5606500&lt;br&gt;Name 1: TK BAROKAH TANI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00135200E&lt;br&gt;Descript.: Unit 3&lt;br&gt;LAT: -4.305067&lt;br&gt;LONG: 105.249242</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5606500.0</SimpleData>
+		<SimpleData name="Name_1">TK BAROKAH TANI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00135200E</SimpleData>
+		<SimpleData name="Descript_">Unit 3</SimpleData>
+		<SimpleData name="LAT">-4.305067</SimpleData>
+		<SimpleData name="LONG">105.249242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.249242,-4.305067,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.96">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 617801&lt;br&gt;Name 1: TK SUYATNO&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00146240H&lt;br&gt;Descript.: Batu Putih&lt;br&gt;LAT: -4.348743&lt;br&gt;LONG: 105.037685</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">617801.0</SimpleData>
+		<SimpleData name="Name_1">TK SUYATNO</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00146240H</SimpleData>
+		<SimpleData name="Descript_">Batu Putih</SimpleData>
+		<SimpleData name="LAT">-4.348743</SimpleData>
+		<SimpleData name="LONG">105.037685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.037685,-4.348743,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.97">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5609046&lt;br&gt;Name 1: TK AGENG&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00134492E&lt;br&gt;Descript.: tirto kencono&lt;br&gt;LAT: -4.548613&lt;br&gt;LONG: 105.132528</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5609046.0</SimpleData>
+		<SimpleData name="Name_1">TK AGENG</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00134492E</SimpleData>
+		<SimpleData name="Descript_">tirto kencono</SimpleData>
+		<SimpleData name="LAT">-4.548613</SimpleData>
+		<SimpleData name="LONG">105.132528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.132528,-4.548613,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.98">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1898289&lt;br&gt;Name 1: TK BU RIA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SABTU&lt;br&gt;SC: SD400A00134559E&lt;br&gt;Descript.: PS. PIDADA&lt;br&gt;LAT: -4.21148&lt;br&gt;LONG: 105.704474</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1898289.0</SimpleData>
+		<SimpleData name="Name_1">TK BU RIA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SABTU</SimpleData>
+		<SimpleData name="SC">SD400A00134559E</SimpleData>
+		<SimpleData name="Descript_">PS. PIDADA</SimpleData>
+		<SimpleData name="LAT">-4.21148</SimpleData>
+		<SimpleData name="LONG">105.704474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.704474,-4.21148,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.99">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5614899&lt;br&gt;Name 1: TK KAHFI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00134802E&lt;br&gt;Descript.: Unit 3&lt;br&gt;LAT: -4.269282&lt;br&gt;LONG: 105.292277</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5614899.0</SimpleData>
+		<SimpleData name="Name_1">TK KAHFI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00134802E</SimpleData>
+		<SimpleData name="Descript_">Unit 3</SimpleData>
+		<SimpleData name="LAT">-4.269282</SimpleData>
+		<SimpleData name="LONG">105.292277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.292277,-4.269282,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.100">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 2913584&lt;br&gt;Name 1: WR MAS PUR&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00134512E&lt;br&gt;Descript.: Ps SPI B3&lt;br&gt;LAT: -4.257012&lt;br&gt;LONG: 105.531013</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">2913584.0</SimpleData>
+		<SimpleData name="Name_1">WR MAS PUR</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00134512E</SimpleData>
+		<SimpleData name="Descript_">Ps SPI B3</SimpleData>
+		<SimpleData name="LAT">-4.257012</SimpleData>
+		<SimpleData name="LONG">105.531013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.531013,-4.257012,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.101">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1713738&lt;br&gt;Name 1: TK RAMIDI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00134153E&lt;br&gt;Descript.: Batu Putih&lt;br&gt;LAT: -4.297905&lt;br&gt;LONG: 105.025369</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1713738.0</SimpleData>
+		<SimpleData name="Name_1">TK RAMIDI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00134153E</SimpleData>
+		<SimpleData name="Descript_">Batu Putih</SimpleData>
+		<SimpleData name="LAT">-4.297905</SimpleData>
+		<SimpleData name="LONG">105.025369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.025369,-4.297905,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.102">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 1719863&lt;br&gt;Name 1: TK SUJIYANTI&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00134773E&lt;br&gt;Descript.: PS.KOTA MANDIRI(KTM)&lt;br&gt;LAT: -4.011564&lt;br&gt;LONG: 105.503083</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">1719863.0</SimpleData>
+		<SimpleData name="Name_1">TK SUJIYANTI</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00134773E</SimpleData>
+		<SimpleData name="Descript_">PS.KOTA MANDIRI(KTM)</SimpleData>
+		<SimpleData name="LAT">-4.011564</SimpleData>
+		<SimpleData name="LONG">105.503083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.503083,-4.011564,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.103">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5630618&lt;br&gt;Name 1: TK EMPAT PUTRA JAYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SENIN&lt;br&gt;SC: SD400A00134105E&lt;br&gt;Descript.: Gunung Batin&lt;br&gt;LAT: -4.629202&lt;br&gt;LONG: 105.204618</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5630618.0</SimpleData>
+		<SimpleData name="Name_1">TK EMPAT PUTRA JAYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SENIN</SimpleData>
+		<SimpleData name="SC">SD400A00134105E</SimpleData>
+		<SimpleData name="Descript_">Gunung Batin</SimpleData>
+		<SimpleData name="LAT">-4.629202</SimpleData>
+		<SimpleData name="LONG">105.204618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.204618,-4.629202,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.104">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5554733&lt;br&gt;Name 1: WR MBK NING&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: RABU&lt;br&gt;SC: SD400A00138155H&lt;br&gt;Descript.: Kibang Budi Jaya&lt;br&gt;LAT: -4.299825&lt;br&gt;LONG: 105.127033</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5554733.0</SimpleData>
+		<SimpleData name="Name_1">WR MBK NING</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">RABU</SimpleData>
+		<SimpleData name="SC">SD400A00138155H</SimpleData>
+		<SimpleData name="Descript_">Kibang Budi Jaya</SimpleData>
+		<SimpleData name="LAT">-4.299825</SimpleData>
+		<SimpleData name="LONG">105.127033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.127033,-4.299825,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.105">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5635505&lt;br&gt;Name 1: TK UNTUNG WIJAYA&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: JUMAT&lt;br&gt;SC: SD400A00138159H&lt;br&gt;Descript.: Margo Jadi Mesuji&lt;br&gt;LAT: -4.047412&lt;br&gt;LONG: 105.461085</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5635505.0</SimpleData>
+		<SimpleData name="Name_1">TK UNTUNG WIJAYA</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">JUMAT</SimpleData>
+		<SimpleData name="SC">SD400A00138159H</SimpleData>
+		<SimpleData name="Descript_">Margo Jadi Mesuji</SimpleData>
+		<SimpleData name="LAT">-4.047412</SimpleData>
+		<SimpleData name="LONG">105.461085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.461085,-4.047412,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.106">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5637584&lt;br&gt;Name 1: WR UPIN IPIN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: SD400A00137678H&lt;br&gt;Descript.: Ps SPI B3&lt;br&gt;LAT: -4.2637699&lt;br&gt;LONG: 105.5123309</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5637584.0</SimpleData>
+		<SimpleData name="Name_1">WR UPIN IPIN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">SD400A00137678H</SimpleData>
+		<SimpleData name="Descript_">Ps SPI B3</SimpleData>
+		<SimpleData name="LAT">-4.2637699</SimpleData>
+		<SimpleData name="LONG">105.5123309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.5123309,-4.2637699,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.107">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 616572&lt;br&gt;Name 1: TK BU IIN&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: SD400A00137683H&lt;br&gt;Descript.: PS . UNIT 6&lt;br&gt;LAT: -4.275882&lt;br&gt;LONG: 105.145058</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">616572.0</SimpleData>
+		<SimpleData name="Name_1">TK BU IIN</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">SD400A00137683H</SimpleData>
+		<SimpleData name="Descript_">PS . UNIT 6</SimpleData>
+		<SimpleData name="LAT">-4.275882</SimpleData>
+		<SimpleData name="LONG">105.145058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.145058,-4.275882,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.108">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5713229&lt;br&gt;Name 1: IDM FRESH LINTAS TIMUR I&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: SELASA&lt;br&gt;SC: Sharing SC&lt;br&gt;Descript.: PS. UNIT 2&lt;br&gt;LAT: -4.2870753&lt;br&gt;LONG: 105.221273</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5713229.0</SimpleData>
+		<SimpleData name="Name_1">IDM FRESH LINTAS TIMUR I</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">SELASA</SimpleData>
+		<SimpleData name="SC">Sharing SC</SimpleData>
+		<SimpleData name="Descript_">PS. UNIT 2</SimpleData>
+		<SimpleData name="LAT">-4.2870753</SimpleData>
+		<SimpleData name="LONG">105.221273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.221273,-4.2870753,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="doc__cov_bayu_mey_26xlsx.109">
+	<name>Ihwal Bayu saddera</name>
+	<description>Customer: 5789892&lt;br&gt;Name 1: IDM POINT REST AREA KM 215 B2&lt;br&gt;Represent.: 90052301&lt;br&gt;Jwk Salesman: KAMIS&lt;br&gt;SC: Sharing SC&lt;br&gt;Descript.: BLJ SPI&lt;br&gt;LAT: -4.249771&lt;br&gt;LONG: 105.138874</description>
+	<ExtendedData><SchemaData schemaUrl="#doc__cov_bayu_mey_26xlsx">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Customer">5789892.0</SimpleData>
+		<SimpleData name="Name_1">IDM POINT REST AREA KM 215 B2</SimpleData>
+		<SimpleData name="Represent_">9.0052301E7</SimpleData>
+		<SimpleData name="Jwk_Salesman">KAMIS</SimpleData>
+		<SimpleData name="SC">Sharing SC</SimpleData>
+		<SimpleData name="Descript_">BLJ SPI</SimpleData>
+		<SimpleData name="LAT">-4.249771</SimpleData>
+		<SimpleData name="LONG">105.138874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>105.138874,-4.249771,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
